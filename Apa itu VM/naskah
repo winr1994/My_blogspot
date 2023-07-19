@@ -1,0 +1,31 @@
+---Assalamu'alaikum wr. wb.---
+Halo teman-teman, kembali lagi di blog Note Wiwin. Saat ini, saya akan membahas tentang Virtualisasi, yang akan menjadi artikel pembuka dalam serangkaian artikel yang berhubungan dengan sistem operasi, jaringan, dan cloud computing.
+
+Mari kita mulai. Virtualisasi adalah teknologi yang memungkinkan kita membangun sebuah lingkungan baru. Contohnya, kita dapat melakukan virtualisasi komputer di mana kita menciptakan sebuah komputer virtual yang berperan seperti komputer fisik. Hal ini sering digunakan oleh orang-orang untuk menguji sistem operasi baru atau untuk membuat sebuah laboratorium jaringan virtual dalam rangka menyelesaikan tugas-tugas tertentu. Pada dasarnya, teknologi virtualisasi sangat membantu dalam mempelajari berbagai hal baru.
+
+Saat ini, terdapat beberapa aplikasi virtualisasi yang sering digunakan oleh banyak orang, antara lain:
+
+1. Oracle VirtualBox
+2. VMware Workstation dan VMware Fusion (untuk macOS)
+3. Microsoft Hyper-V (untuk Windows)
+4. KVM (Kernel-based Virtual Machine) untuk Linux
+5. Parallels Desktop (untuk macOS)
+6. QEMU (Quick Emulator)
+7. Xen Project
+8. VMware vSphere (untuk virtualisasi di tingkat server)
+
+nah untuk praktek yang akan kita coba yaitu menggunakan Aplikasi Virtualbox dari Oracle.
+
+Sekian teman-teman sampai jumpa di artikel selanjutnya
+
+--Wassalammu'alaikum wr wb--
+
+contohnya seperti ini. kita memiliki sebuah laptop dengan speccifikasi sebagai berikut. 
+Harddisk 500gb
+Ram 8gb
+Prosesor 4 core
+dan kita akan membuat sebuah mesin virtual dengan specifikasi 
+harddisk 30gb
+ram 2gb
+prosesor 1 core.
+maka kompueter fisik kita 
