@@ -1,0 +1,76 @@
+ 
+
+---Assalammu'alaikum wr wb---
+
+Halo teman-teman semua balik lagi nih di blog kesayangan kita Note Wiwin, kali aku akan berbagi sedikit tentang sitemap seorang web developer langsung aja ya ke artikelnya
+
+
+.
+
+Belajar pemrograman web dari awal hingga mahir memerlukan waktu, dedikasi, dan latihan yang konsisten. Berikut adalah langkah-langkah untuk membantu Anda memulai perjalanan belajar pemrograman web:
+
+1. **Dasar Pemrograman**: Sebelum memulai pemrograman web, pahami dasar-dasar pemrograman seperti konsep variabel, tipe data, percabangan, dan perulangan. Bahasa pemrograman yang disarankan untuk pemula adalah JavaScript, tetapi Anda juga dapat mempertimbangkan Python.
+
+
+
+2. **HTML (Hypertext Markup Language)**: Pelajari HTML, bahasa markup yang digunakan untuk membuat struktur dasar dari halaman web. Anda akan belajar tentang tag, elemen, atribut, dan struktur dasar dokumen HTML.
+
+
+
+3. **CSS (Cascading Style Sheets)**: Setelah memahami HTML, lanjutkan dengan CSS untuk memahami bagaimana menggaya tampilan halaman web. CSS digunakan untuk mengatur tata letak, warna, font, dan elemen tampilan lainnya.
+
+
+
+4. **JavaScript**: Lanjutkan dengan JavaScript, bahasa pemrograman untuk membuat interaksi dan fungsionalitas di halaman web. Anda akan mempelajari manipulasi DOM (Document Object Model), event handling, dan logika pemrograman dasar.
+
+
+
+5. **Responsive Web Design**: Pelajari tentang desain responsif untuk memastikan bahwa halaman web Anda dapat ditampilkan dengan baik di berbagai perangkat dan ukuran layar.
+
+
+
+6. **Version Control**: Pelajari tentang sistem kontrol versi, seperti Git, untuk mengelola kode Anda dan bekerja secara efisien dalam tim.
+
+
+
+7. **Framework dan Library**: Anda dapat mempertimbangkan untuk mempelajari framework web seperti React, Angular, atau Vue.js, serta library seperti jQuery untuk membantu mempercepat pembuatan aplikasi web.
+
+
+
+8. **Backend Development**: Setelah Anda menguasai dasar-dasar frontend, pelajari juga tentang backend development. Anda dapat memilih bahasa pemrograman seperti Node.js (JavaScript di sisi server), Python, atau Ruby untuk membangun logika server dan mengelola database.
+
+
+
+9. **Database**: Pelajari tentang basis data dan cara berinteraksi dengannya. Anda dapat memilih basis data SQL seperti MySQL atau basis data NoSQL seperti MongoDB, tergantung pada kebutuhan proyek Anda.
+
+
+
+10. **Deployment**: Pelajari cara mendeploy aplikasi web Anda di server atau platform hosting untuk dapat diakses oleh pengguna.
+
+
+
+11. **Latihan Proyek**: Praktekkan apa yang telah Anda pelajari dengan membuat proyek-proyek sederhana. Proyek-proyek ini membantu Anda memperkuat pemahaman dan keterampilan Anda.
+
+
+
+12. **Belajar dari Sumber Terpercaya**: Manfaatkan berbagai sumber belajar, seperti tutorial online, kursus, buku, dan video. Pastikan Anda belajar dari sumber terpercaya dan berwibawa.
+
+
+
+13. **Bergabung dengan Komunitas**: Bergabunglah dengan komunitas pengembang web, forum, atau grup media sosial untuk berdiskusi dan belajar dari pengembang web lainnya.
+
+
+
+14. **Terus Belajar**: Ingatlah bahwa pemrograman web terus berkembang. Teruslah belajar tentang teknologi baru dan tren terkini di industri.
+
+
+
+15. **Praktekkan Secara Teratur**: Konsistensi dalam latihan dan penerapan konsep adalah kunci untuk mencapai tingkat keahlian yang lebih tinggi.
+
+
+
+Selamat belajar, dan jangan terlalu terburu-buru. Pemrograman web adalah perjalanan yang menarik dan penuh tantangan. Jika Anda gigih dan tekun, Anda akan menjadi mahir dalam waktu.
+
+
+
+--Wassalammu'alaikum wr wb--
