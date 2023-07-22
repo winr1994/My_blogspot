@@ -1,0 +1,20 @@
+---Asslamu'alaikum wr wb---
+
+Halo teman-teman balik lagi ke blog Note Wiwin, kali ini aku mau berbagi artikel tentang jenis-jenis Network di dalam VirtualBox
+
+VirtualBox adalah perangkat lunak virtualisasi yang memungkinkan Anda menjalankan sistem operasi yang berbeda di dalam sistem operasi utama. Dalam konteks VirtualBox, terdapat beberapa jenis koneksi jaringan yang dapat dikonfigurasi untuk menghubungkan mesin virtual (VM) dengan jaringan luar. Berikut adalah beberapa penjelasan tentang jenis-jenis koneksi jaringan yang ada di VirtualBox:
+
+1. **NAT (Network Address Translation)**: Koneksi NAT memungkinkan VM untuk berbagi IP host (sistem operasi utama). VM akan mendapatkan alamat IP virtual dari VirtualBox DHCP server yang dapat digunakan untuk mengakses internet. Ini adalah konfigurasi jaringan default yang disediakan VirtualBox.
+
+2. **Bridged Adapter**: Koneksi Bridged memungkinkan VM untuk memiliki alamat IP yang terpisah dari host, mirip dengan mesin fisik. VM akan terhubung langsung ke jaringan fisik dan menerima alamat IP dari jaringan lokal. Dengan ini, VM dapat berkomunikasi dengan perangkat lain di jaringan, termasuk perangkat yang berada di luar mesin fisik.
+
+3. **Internal Network**: Koneksi Internal Network memungkinkan VM untuk berkomunikasi dengan mesin fisik dan VM lain yang terhubung ke jaringan internal yang sama di dalam VirtualBox. VM yang terhubung dalam jaringan internal ini dapat saling berinteraksi tanpa terhubung ke jaringan luar.
+
+4. **Host-Only Adapter**: Koneksi Host-Only menghubungkan VM dengan host fisik, tetapi tidak terhubung ke jaringan fisik yang lebih besar. Dalam mode ini, VM hanya dapat berkomunikasi dengan host fisik dan VM lain yang terhubung ke Host-Only network di VirtualBox.
+
+5. **Generic Driver**: Koneksi ini memungkinkan VM untuk berkomunikasi dengan jaringan melalui driver jaringan generik yang dapat diatur secara manual oleh pengguna. Pengguna harus menginstal driver jaringan di dalam VM untuk menggunakan jenis koneksi ini.
+
+Pengguna VirtualBox dapat memilih jenis koneksi jaringan yang sesuai dengan kebutuhan kita saat membuat atau mengkonfigurasi mesin virtual. Setiap jenis koneksi memiliki kegunaan dan fitur yang berbeda, dan kita dapat beralih antar koneksi sesuai dengan keperluan kita.
+
+sekian ya teman-teman untuk artikelnya.
+--Wassalamu'alaikum wr wb--

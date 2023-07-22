@@ -1,0 +1,19 @@
+---Assalammu'alaikum wr wb---
+
+Halo teman-teman balik lagi di blog Note Wiwin, dalam artikel ini aku akan berbagi bagaimana cara instalasi Mikrotik di Virtualbox.
+kalau yg belum tau apa itu mikrotik bisa klik Link berikut ya #Mikrotik .
+
+Ayo kita mulai teman-teman ke step2 instalasinya ya.
+1. donwload dulu file Iso Mikrotik di http://www.routeros.co.id/, kita pilih versi os yang mau kita gunakan. 
+2. setelah melakukan download mari kita lakukan pembuatan virtual machine di virtual box.
+3. buka aplikasi Virtualbox > Machine > New 
+	-kita beri nama VM Mikrotik
+	-tentukan dimana kita akan meletakan file vm yg kita buat
+	-setting ram akan kita alokasikan ke mikrotik
+	-Create
+	-Next
+	-Next
+	tentukan berapa penyimpanan yg akan digunakan untuk mikrotik lalu klik Create
+	-kemudian buka Setting dari Vm Mikrotik
+	-masuk ke Storage untuk memasukan file Iso Mikrotik yang sudah kita download sebelumnya
+	-
